@@ -1,0 +1,11 @@
+div {text-align: center;}
+h4 {text-align: center; color: rgb(40, 119, 108); background-color: rgba(243, 243, 45, 0.295); border-top: solid; border-top-color: rgba(255, 68, 0, 0.486);}
+h1 {text-align: center;}
+p {text-align: center; color: gray;}
+h3 {text-align: left; color: rgb(187, 6, 6); }
+#link {padding-left: 2%; border-left: 2px solid; border-left-color:rgba(255, 68, 0, 0.486);}
+img {border-radius:  8px;}
+#paragrafo {text-align: left; color: black;}
+main {width: 700px; margin-left: 20%; margin-right: 20%;}
+h5 {font-size: larger;}
+li {padding-block: 7px;}
